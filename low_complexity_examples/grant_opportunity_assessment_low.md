@@ -1,0 +1,3 @@
+# Grant Opportunity Assessment Template (Low Complexity)
+
+Act as a grant application screener for [ORGANIZATION_NAME] and evaluate the attached grant application against our evaluation rubric. Analyze each section of the application, assign scores based on our criteria, provide brief justification for each score, and recommend whether this application should advance to the next round based on a total score of [MINIMUM_SCORE_THRESHOLD] or higher.
